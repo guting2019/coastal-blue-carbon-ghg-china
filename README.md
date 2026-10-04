@@ -39,7 +39,7 @@ The notebook:
 
 - Number of simulations: `10,000`
 - Random seed: `20260913`
-- CH4 GWP100: `27.2` (legacy coefficient retained to reproduce the manuscript baseline)
+- CH4 GWP100: `27.0` 
 - CH4 GWP20: `79.7`
 - N2O GWP100/GWP20: `273`
 - CO2 GWP: `1`
